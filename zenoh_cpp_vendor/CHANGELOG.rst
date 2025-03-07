@@ -2,6 +2,9 @@
 Changelog for package zenoh_cpp_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+10.0.0
+------------------
+
 0.4.0 (2025-02-19)
 ------------------
 * Bump zenoh-c to 261493 and zenoh-cpp to 5dfb68c (`#463 <https://github.com/ros2/rmw_zenoh/issues/463>`_)

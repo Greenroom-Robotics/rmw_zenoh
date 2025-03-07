@@ -2,6 +2,9 @@
 Changelog for package rmw_zenoh_cpp
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+10.0.0
+------------------
+
 0.4.0 (2025-02-19)
 ------------------
 * Introduce the advanced publisher and subscriber (`#368 <https://github.com/ros2/rmw_zenoh/issues/368>`_)
